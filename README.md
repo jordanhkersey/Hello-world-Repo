@@ -8,6 +8,12 @@ This is my first repo.
 4. FEEL LIKE I CAN MANAGE DATA!
 
 # here is the class website 
-Fall 2016
-[agron590 website](http://agron590-isu.github.io/)
+Fall 2016.  
+[agron590 website](http://agron590-isu.github.io/)  
+
+A wise person once said:
+> You must fail,
+> in order to succeed. 
+
+
 
